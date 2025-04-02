@@ -38,8 +38,8 @@ Here’s a glimpse of the  app in action:
 
 <table align="center">
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=FILE_ID
-" width="200" height="400"/></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1GqoyO0k_mTBoijEViQFzspHTe3RRpL_h" width="200" height="500"/>
+</td>
     <td width="50"></td> <!-- This adds spacing -->
     <td><img src="https://drive.google.com/uc?export=view&id=1GqoyO0k_mTBoijEViQFzspHTe3RRpL_h
 " width="200" height="400"/></td>
