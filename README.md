@@ -34,7 +34,7 @@
 
 ## Screenshots 📸
 
-Here’s a glimpse of the FitBuddy app in action:
+Here’s a glimpse of the  app in action:
 
 <table align="center">
   <tr>
