@@ -1,4 +1,7 @@
-# Resume-Based Job Finder
+# 📝 Resume-Based Job Finder 🚀
+
+## 🚀 Overview
+**Resume-Based Job Finder** is an AI-powered job-matching application that helps users find jobs based on their resumes using **Natural Language Processing (NLP)** and **Machine Learning**. The app analyzes resumes, scores them for **ATS (Applicant Tracking System) compatibility**, and recommends job listings from multiple job platforms.
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?logo=flutter)
 ![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)
@@ -7,8 +10,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue)
 
-## 🚀 Overview
-**Resume-Based Job Finder** is an AI-powered job-matching application that helps users find jobs based on their resumes using **Natural Language Processing (NLP)** and **Machine Learning**. The app analyzes resumes, scores them for **ATS (Applicant Tracking System) compatibility**, and recommends job listings from multiple job platforms.
 
 ## ✨ Features
 - 📄 **AI Resume Parsing & Scoring** (ATS Optimization)
