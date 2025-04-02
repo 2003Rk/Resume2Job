@@ -27,6 +27,11 @@
 - **Scraping & API:** BeautifulSoup, Selenium, Job APIs
 - **Authentication:** Firebase/Auth0
 
+## 🌟 APIs & Services Used
+
+- 🌍 **Aduza API**: Free job listing API used for fetching job postings.
+- 🔗 **LinkedIn & Indeed API (Optional)**: If available, these can be integrated for broader job searches.
+
 ## Screenshots 📸
 
 Here’s a glimpse of the FitBuddy app in action:
