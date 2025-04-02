@@ -38,9 +38,9 @@ Here’s a glimpse of the  app in action:
 
 <table align="center">
   <tr>
-    <td><img src="https://drive.google.com/uc?id=1y16_Q4xgsl_52Ab2IouoW1Cif3JWYJQK" width="200" height="400"/></td>
+    <td><img src="https://drive.google.com/file/d/1GqoyO0k_mTBoijEViQFzspHTe3RRpL_h/view?usp=sharing" width="200" height="400"/></td>
     <td width="50"></td> <!-- This adds spacing -->
-    <td><img src="https://drive.google.com/uc?id=1AUqPSGfxq_2PBPAc0xTUGYsCmSvqyij5" width="200" height="400"/></td>
+    <td><img src="https://drive.google.com/file/d/1pCoR1EaNO4XbI6EQwqMDnQ1v7yfgxETf/view?usp=sharing" width="200" height="400"/></td>
     <td width="50"></td> <!-- This adds spacing -->
     <td><img src="https://drive.google.com/uc?id=1XUiBkhpy09kyy6WTUen0OUtHHm7E6-Wt" width="200" height="400"/></td>
   </tr>
