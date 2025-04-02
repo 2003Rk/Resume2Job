@@ -14,7 +14,7 @@
 ## ✨ Features
 - 📄 **AI Resume Parsing & Scoring** (ATS Optimization)
 - 🔍 **Job Recommendations Based on Resume Analysis**
-- 🌍 **Multi-Platform Job Searching (LinkedIn, Indeed, etc.)**
+- 🌍 **Multi-Platform Job Searching (Aduza , LinkedIn, Indeed, etc.)**
 - 🧠 **NLP & AI for Skill Extraction and Matching**
 - 📊 **Resume Enhancement Suggestions**
 - 🔔 **Real-Time Job Alerts & Notifications**
