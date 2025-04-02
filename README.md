@@ -56,7 +56,6 @@ Here’s a glimpse of the  app in action:
 - **PostgreSQL**: For handling structured database management.  
 - **spaCy & NLTK**: For Natural Language Processing in resume parsing.  
 - **Selenium & BeautifulSoup**: For web scraping job listings.  
-- **Firebase/Auth0**: For authentication and secure user login.  
 - **ATS Optimization Techniques**: For improving resume compatibility with job applications.  
 
 ## 📧 Contact
